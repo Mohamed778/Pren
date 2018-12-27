@@ -1,0 +1,62 @@
+@media (max-width: 1200px){
+    nav ul >li a{
+        font-size: 14px;}
+        #our-business .icons p{
+            font-size: 10px;
+          }
+          .carousel-caption h2 {
+            font-size: 3rem;
+          }
+          .carousel-caption p{
+            font-size: 2rem;}
+            nav >ul >li{
+                padding: 15px 20px;
+              }
+              footer .subscribe .fa-check{
+                left:10px}
+}
+@media (max-width: 992px){
+    .container{width:90%}
+    nav{background: transparent}
+      .multi-nav{margin-bottom: 30px}
+      .multi-nav .fa-search{
+        top: 10px;}
+    nav>ul{display: none;}
+     .fa-bars{
+        display: block;
+        margin-top: 18px;
+    position: relative;
+    left: 50px;
+    }
+    footer .subscribe .fa-check{
+        left:10px }
+    }
+
+@media (max-width: 765px){
+    .container{width:90%}
+    nav{background: transparent}
+      .multi-nav{margin-bottom: 30px}
+      .multi-nav .fa-search{
+        top: 25px;}
+    nav>ul{display: none;}
+     .fa-bars{
+        display: block;
+        margin-top: 18px;
+    position: relative;
+    left: 50px;
+    }
+    footer .subscribe .fa-check{
+        left:10px}
+    }
+@media (max-width: 576px){
+      .multi-nav{margin-bottom: 30px}
+      .multi-nav .fa-search{top:10px}
+    nav>ul{display: none;}
+     .fa-bars{
+        display: block;
+        margin-top: 18px;
+    position: relative;
+    float: left;
+    left: 50px;
+    }
+}
